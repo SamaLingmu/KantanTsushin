@@ -1,3 +1,4 @@
+#GitHubに登録するわいな
 #メイン機能のファイル　Streamlitとソケット通信のメイン動作はこちらに記載する
 import streamlit as st
 import socket
