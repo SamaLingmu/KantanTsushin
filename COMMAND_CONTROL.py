@@ -1,4 +1,4 @@
-#コマンド通信の補助関数/変数を定義
+#コマンド通信の補助関数/変数を定義するファイル
 import re
 import pandas as pd
 import streamlit as st
